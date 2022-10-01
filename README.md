@@ -24,6 +24,8 @@
 
 4. run
 
-    ```cmd
+    ```cmd!
     ./revgenerator.sh
     ```
+
+[screenshot](https://user-images.githubusercontent.com/98729397/193403463-77b4dce5-9c32-487c-bbcd-d100c9c3d6a3.png)
