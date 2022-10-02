@@ -22,7 +22,7 @@ while getopts ipaddr:port option; do
     esac
 done
 
-banner=$(cat <banner.txt)
+banner=$(cat < banner.txt)
 
 echo -e "${BOLDRED}${banner}${ENDCOLOR}\n\n"
 
